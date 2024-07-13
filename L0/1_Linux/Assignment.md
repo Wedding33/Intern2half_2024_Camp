@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3bc4dcdf-3ad8-4e41-801b-e391a5106dca)**闯关任务**
+**闯关任务**
 
 1. 配置SSH文件
 
